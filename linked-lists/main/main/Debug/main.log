@@ -1,2 +1,8 @@
-﻿  main.cpp
+﻿  singlyLinked.h
+  singlyLinked.cpp
+  Node.cpp
+  main.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+Debug\singlyLinked.obj : warning LNK4042: object specified more than once; extras ignored
   main.vcxproj -> C:\Users\Teej\Documents\data-structure-study\Studying\linked-lists\main\Debug\main.exe

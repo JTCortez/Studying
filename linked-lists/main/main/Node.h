@@ -1,8 +1,11 @@
+#pragma once
 #include <stdio.h>
 #include <iostream>
 
 using std::cout;
 using std::endl;
+
+using namespace std;
 
 class Node {
 public:
@@ -10,7 +13,7 @@ public:
 	~Node();
 	
 	int getData() const;
-	Node *& getNext();
+	Node * getNext() const;
 
 	void setData(const int newData);
 	void setNext(Node * const newNext);

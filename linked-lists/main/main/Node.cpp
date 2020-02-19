@@ -3,14 +3,10 @@
 Node::Node(int newData)
 {
 	pData = newData;
-	pNext = nullptr;
-
 }
 
 Node::~Node()
 {
-	cout << "destructor" << endl;
-
 }
 
 int Node::getData() const
@@ -18,7 +14,7 @@ int Node::getData() const
 	return pData;
 }
 
-Node *& Node::getNext()
+Node * Node::getNext() const
 {
 	return pNext;
 }
