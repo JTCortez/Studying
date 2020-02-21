@@ -47,3 +47,29 @@ void printStack(Node *pTop){
 		pTop = pTop->pNext;
 	}
 }
+
+void reverseString(Node **pHead, char str[]){
+	if (isEmpty(*pHead)){
+		for (int i = 0;str[i] != '\0'; ++i){
+			push (pHead, str[i]);
+		}
+	}
+}
+
+char minStack(Node **pTop, char min)
+{
+	//Node *pMin = pTop;
+
+	if (!*pTop){
+		return min;
+	}
+	if (peek(*pTop) <= min){
+		min = peek(*pTop);
+	}
+	//printf('%c', pMin->data);
+	//pop(pMin);
+	pop(pTop);
+	return (minStack(pTop, min));
+	//return min;
+
+}

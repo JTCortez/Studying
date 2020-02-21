@@ -15,3 +15,5 @@ void pop(Node **pTop);
 char peek(Node *pTop);
 unsigned int isEmpty(Node *pTop);
 void printStack(Node *pTop);
+void reverseString (Node **pHead, char str[]);
+char minStack(Node **pTop, char min);
