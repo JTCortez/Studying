@@ -68,11 +68,11 @@ void singlyLinked::destroyList()
 
 void singlyLinked::removeDups()
 {
+	cout<<"in";
 	Node *pCur = pHead;
 	Node *pPrev = nullptr;
 	Node *pDup = pHead;
 	//Node *pTemp = nullptr;
-	cout << pDup->getData() << pCur->getData();
 
 	if (pHead){
 		while (pDup->getNext()){
@@ -80,7 +80,6 @@ void singlyLinked::removeDups()
 				pPrev = pCur;
 				pCur = pCur->getNext();
 
-				cout << pDup->getData() << pCur->getData();
 				if(pDup->getData() == pCur->getData()){
 					cout <<"IM A DUAP" << pDup->getData() << pCur->getData();
 					//pPrev->setNext(pCur->getNext());
