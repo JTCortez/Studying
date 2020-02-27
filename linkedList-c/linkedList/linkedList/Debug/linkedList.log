@@ -1,0 +1,7 @@
+﻿  main.c
+  linkedList.c
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(4): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(16): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(27): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+  Generating Code...
+  linkedList.vcxproj -> C:\Users\Teej\Documents\data-structure-study\Studying\linkedList-c\linkedList\Debug\linkedList.exe
