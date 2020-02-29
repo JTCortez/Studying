@@ -3,5 +3,23 @@
 c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(4): warning C4013: 'malloc' undefined; assuming extern returning int
 c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(16): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
 c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(27): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(41): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(45): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(46): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(64): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(72): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(76): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(79): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(92): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(93): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(94): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(99): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(100): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(101): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(102): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(103): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(104): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(105): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+c:\users\teej\documents\data-structure-study\studying\linkedlist-c\linkedlist\linkedlist\linkedlist.c(86): warning C4133: 'initializing': incompatible types - from 'Node *' to 'Node *'
   Generating Code...
   linkedList.vcxproj -> C:\Users\Teej\Documents\data-structure-study\Studying\linkedList-c\linkedList\Debug\linkedList.exe

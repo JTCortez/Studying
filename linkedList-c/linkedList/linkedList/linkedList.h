@@ -10,3 +10,5 @@ Node * makeNode(int newData);
 void insertAtFront(Node **pHead, int newData);
 void printList(Node *pHead);
 void removeNode(Node **pHead, int removeData);
+void removeDups(Node **pHead);
+void weaveList(Node **pHead);
