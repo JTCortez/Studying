@@ -1,0 +1,11 @@
+﻿  binaryTree.c
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(4): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(21): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(24): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(34): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(35): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(44): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(46): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(54): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+c:\users\teej\documents\data-structure-study\studying\binarytrees\binarytree\binarytree\binarytree.c(55): warning C4133: 'function': incompatible types - from 'Node **' to 'Node **'
+  binaryTree.vcxproj -> C:\Users\Teej\Documents\data-structure-study\Studying\binaryTrees\binaryTree\Debug\binaryTree.exe
