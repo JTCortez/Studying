@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M+/bTsRKKXtlCv2a1I7ItafKh92/YyzHMLUP4HQo71xNpjhf+5vfRF5b6CUGvxuRpoYsKr7AHd8COcAftJ/DXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teejl\\source\\repos\\listofdepths\\listofdepths\\listofdepths.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teejl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
