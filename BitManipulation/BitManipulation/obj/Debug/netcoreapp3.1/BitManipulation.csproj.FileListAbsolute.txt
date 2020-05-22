@@ -1,0 +1,13 @@
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.csprojAssemblyReference.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.AssemblyInfoInputs.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.AssemblyInfo.cs
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.exe
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.deps.json
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.runtimeconfig.json
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.runtimeconfig.dev.json
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.dll
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\bin\Debug\netcoreapp3.1\BitManipulation.pdb
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.dll
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.pdb
+C:\Users\Teejl\Documents\Code\Study\Studying\BitManipulation\BitManipulation\obj\Debug\netcoreapp3.1\BitManipulation.genruntimeconfig.cache
