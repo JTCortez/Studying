@@ -1,5 +1,6 @@
 ﻿using System;
 using static Sorting.BubbleSort;
+using static Sorting.SelectionSort;
 
 namespace Sorting
 {
@@ -11,11 +12,23 @@ namespace Sorting
             int[] unsorted = { 3, 6, 4, 2, 5, 1, 2, 7, 10, 9, 7, 8, 11, 12, 3 };
             bsort.BubbleSortAlg(unsorted);
 
+            SelectionSort sSort = new SelectionSort();
+            int[] unsorted2 = { 3, 6, 4, 2, 5, 1, 2, 7, 10, 9, 7, 8, 11, 12, 3 };
+            sSort.SelectionSortAlg(unsorted2);
+
             foreach (int i in unsorted)
             {
-                Console.WriteLine(i);
+                Console.Write(i + ",");
             }
 
+
+            Console.WriteLine(" ");
+
+            foreach (int i in unsorted2)
+            {
+                Console.Write(i + ",");
+            }
+            return;
         }
     }
 }
