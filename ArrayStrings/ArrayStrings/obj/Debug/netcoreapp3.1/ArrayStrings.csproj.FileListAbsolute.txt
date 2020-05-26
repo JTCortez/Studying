@@ -1,0 +1,13 @@
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\obj\Debug\netcoreapp3.1\ArrayStrings.csprojAssemblyReference.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\obj\Debug\netcoreapp3.1\ArrayStrings.AssemblyInfoInputs.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\obj\Debug\netcoreapp3.1\ArrayStrings.AssemblyInfo.cs
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\obj\Debug\netcoreapp3.1\ArrayStrings.csproj.CoreCompileInputs.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\bin\Debug\netcoreapp3.1\ArrayStrings.exe
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\bin\Debug\netcoreapp3.1\ArrayStrings.deps.json
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\bin\Debug\netcoreapp3.1\ArrayStrings.runtimeconfig.json
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\bin\Debug\netcoreapp3.1\ArrayStrings.runtimeconfig.dev.json
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\bin\Debug\netcoreapp3.1\ArrayStrings.dll
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\bin\Debug\netcoreapp3.1\ArrayStrings.pdb
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\obj\Debug\netcoreapp3.1\ArrayStrings.dll
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\obj\Debug\netcoreapp3.1\ArrayStrings.pdb
+C:\Users\Teejl\Documents\Code\Study\Studying\ArrayStrings\ArrayStrings\obj\Debug\netcoreapp3.1\ArrayStrings.genruntimeconfig.cache
