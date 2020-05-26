@@ -19,6 +19,11 @@ namespace BitManipulation
             Console.WriteLine(Convert.ToString(M, 2));
             newBit = iBit.insertM(N, M, j, i);
             Console.WriteLine(Convert.ToString(newBit, 2));
+
+            int k = 5;
+            int mask = ~(1 << k); 
+            Console.WriteLine(Convert.ToString(mask, 2));
+
         }
     }
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdEx6GHV5U87Ljqs2BVtZRvzA2aamPvs6KLS5jeZ26D6spT9JxoTgYR+1DRyq751jFVFOCQJ7MpDTNJHAEwxYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teejl\\Documents\\Code\\Study\\Studying\\Sorting\\Sorting\\Sorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teejl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
