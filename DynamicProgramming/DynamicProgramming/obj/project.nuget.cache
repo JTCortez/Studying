@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4OSHtilXjzz1mJ9YV7a41FAIl+HgHxEzB0edRiOLbYbRB2uCx8ZASl2/v8mtRFkJkrkeFn/dIlhwE1wuAjCQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teejl\\Documents\\Code\\Study\\Studying\\DynamicProgramming\\DynamicProgramming\\DynamicProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teejl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
