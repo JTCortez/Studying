@@ -10,7 +10,7 @@ namespace DynamicProgramming
     {
         static void Main(string[] args)
         {
-            int n = 6;
+            int n = 4;
             TripleStep dp = new TripleStep();
             int ans = dp.TripleStepFunction(n);
             Console.WriteLine(ans);
@@ -21,10 +21,10 @@ namespace DynamicProgramming
 
             robotinagrid robo = new robotinagrid();
             bool[,] array2D = new bool[,] { 
-                { true, true, true, true, true, true}, 
+                { true, true, true, true, true, false}, 
                 { true, true, false, true, false, true},
                 { true, true, true, false, false, true},
-                { true, true, true, true, true, true},
+                { false, true, true, true, true, true},
                 { true, true, true, false, false, true}, 
                 { true, false, true, true, true, true},};
             bool[,] check = new bool[array2D.GetLength(0), array2D.GetLength(1)];
