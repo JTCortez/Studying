@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using static Sorting.BubbleSort;
 using static Sorting.SelectionSort;
 using static Sorting.MergeSort;
+using static Sorting.QuickSort;
 
 namespace Sorting
 {
@@ -18,13 +19,16 @@ namespace Sorting
             //int[] unsorted2 = { 3, 6, 4, 2, 5, 1, 2, 7, 10, 9, 7, 8, 11, 12, 3 };
             //sSort.SelectionSortAlg(unsorted2);
 
-            MergeSort mSort = new MergeSort();
-            int[] unsorted3 = { 2, 8, 5, 3, 9, 4, 1, 7 };
-            List<int> unsortedlist = new List<int>(unsorted3);
-            List<int> sorted = mSort.MergeSortHelper(unsortedlist);
+            //MergeSort mSort = new MergeSort();
+            //int[] unsorted3 = { 2, 8, 5, 3, 9, 4, 1, 7 };
+            //List<int> unsortedlist = new List<int>(unsorted3);
+            //List<int> sorted = mSort.MergeSortHelper(unsortedlist);
 
+            QuickSort qSort = new QuickSort();
+            int[] unsorted4 = { 2, 8, 5, 9, 3, 4, 1, 7 };
+            qSort.qs(unsorted4, 0, unsorted4.Length - 1);
 
-            foreach (int i in sorted)
+            foreach (int i in unsorted4)
             {
                 Console.Write(i + ",");
             }
