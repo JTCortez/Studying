@@ -11,3 +11,16 @@ C:\Users\Teejl\Documents\Code\Studying\Graphs\Graphs\bin\Debug\netcoreapp3.1\Gra
 C:\Users\Teejl\Documents\Code\Studying\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.dll
 C:\Users\Teejl\Documents\Code\Studying\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.pdb
 C:\Users\Teejl\Documents\Code\Studying\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.genruntimeconfig.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.exe
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.deps.json
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.json
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.dev.json
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\bin\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.csprojAssemblyReference.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfoInputs.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfo.cs
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\Teejl\Documents\Code\Study\Studying\graphs\Graphs\Graphs\obj\Debug\netcoreapp3.1\Graphs.genruntimeconfig.cache

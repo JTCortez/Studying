@@ -11,9 +11,9 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
-            //BubbleSort bsort = new BubbleSort();
-            //int[] unsorted = { 3, 6, 4, 2, 5, 1, 2, 7, 10, 9, 7, 8, 11, 12, 3 };
-            //bsort.BubbleSortAlg(unsorted);
+            BubbleSort bsort = new BubbleSort();
+            int[] unsorted = { 3, 6, 4, 2, 5, 1, 2, 7, 10, 9, 7, 8, 11, 12, 3 };
+            bsort.BubbleSortAlg(unsorted);
 
             //SelectionSort sSort = new SelectionSort();
             //int[] unsorted2 = { 3, 6, 4, 2, 5, 1, 2, 7, 10, 9, 7, 8, 11, 12, 3 };
@@ -24,11 +24,11 @@ namespace Sorting
             //List<int> unsortedlist = new List<int>(unsorted3);
             //List<int> sorted = mSort.MergeSortHelper(unsortedlist);
 
-            QuickSort qSort = new QuickSort();
-            int[] unsorted4 = { 2, 8, 5, 9, 3, 4, 1, 7 };
-            qSort.qs(unsorted4, 0, unsorted4.Length - 1);
+            //QuickSort qSort = new QuickSort();
+            //int[] unsorted4 = { 2, 8, 5, 9, 3, 4, 1, 7 };
+            //qSort.qs(unsorted4, 0, unsorted4.Length - 1);
 
-            foreach (int i in unsorted4)
+            foreach (int i in unsorted)
             {
                 Console.Write(i + ",");
             }

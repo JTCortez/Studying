@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Teejl\\Documents\\Code\\Studying\\Graphs\\Graphs\\Graphs.csproj": {}
+    "C:\\Users\\Teejl\\Documents\\Code\\Study\\Studying\\graphs\\Graphs\\Graphs\\Graphs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Teejl\\Documents\\Code\\Studying\\Graphs\\Graphs\\Graphs.csproj": {
+    "C:\\Users\\Teejl\\Documents\\Code\\Study\\Studying\\graphs\\Graphs\\Graphs\\Graphs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Teejl\\Documents\\Code\\Studying\\Graphs\\Graphs\\Graphs.csproj",
+        "projectUniqueName": "C:\\Users\\Teejl\\Documents\\Code\\Study\\Studying\\graphs\\Graphs\\Graphs\\Graphs.csproj",
         "projectName": "Graphs",
-        "projectPath": "C:\\Users\\Teejl\\Documents\\Code\\Studying\\Graphs\\Graphs\\Graphs.csproj",
+        "projectPath": "C:\\Users\\Teejl\\Documents\\Code\\Study\\Studying\\graphs\\Graphs\\Graphs\\Graphs.csproj",
         "packagesPath": "C:\\Users\\Teejl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Teejl\\Documents\\Code\\Studying\\Graphs\\Graphs\\obj\\",
+        "outputPath": "C:\\Users\\Teejl\\Documents\\Code\\Study\\Studying\\graphs\\Graphs\\Graphs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Teejl\\AppData\\Roaming\\NuGet\\NuGet.Config",

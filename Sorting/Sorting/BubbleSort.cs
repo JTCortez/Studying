@@ -13,13 +13,13 @@ namespace Sorting
             int swaps = 0; 
             for (int i = 0; i <array1.Length - 1; i++)
             {
-                for (int j = 0; j<array1.Length - 1; j++)
+                for (int j = i + 1; j<array1.Length; j++)
                 {
-                    if (array1[j] > array1[j + 1])
+                    if (array1[i] > array1[j])
                     {
-                        temp = array1[j];
-                        array1[j] = array1[j + 1];
-                        array1[j + 1] = temp;
+                        temp = array1[i];
+                        array1[i] = array1[j];
+                        array1[j] = temp;
                         swaps += 1;
                     }
                 }

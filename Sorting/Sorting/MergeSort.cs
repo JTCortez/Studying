@@ -27,7 +27,7 @@ namespace Sorting
 
             int aIndex = 0;
             int bIndex = 0;
-            int cIndex = 0;
+            //int cIndex = 0;
 
             while (aIndex <= a.Count - 1 && bIndex <= b.Count - 1)
             {

@@ -33,8 +33,24 @@ namespace Graphs
             sevenNode.children.Add(nineNode);
             nineNode.children.Add(eighthNode);
 
-            graph.DFS(oneNode);
-            //graph.BFS(oneNode);
+            //graph.DFS(oneNode);
+
+            //Console.WriteLine(Graphs.GetNumberOfIslands(new int[,] { { 1, 0, 1, 0 }, { 0, 1, 1, 1 }, { 0, 0, 1, 0 } }));
+            graph.BFS(oneNode);
+
+
+
+            int[,] arr = new int[,] { { 1, 0, 1, 0 }, { 0, 1, 1, 1 }, { 0, 0, 1, 0 } };
+            Console.WriteLine("islands");
+            Console.WriteLine(Graphs.GetNumberOfIslands(arr));
+            for (int row = 0; row < arr.GetLength(0); row++)
+            {
+                for (int col = 0; col < arr.GetLength(1); col++)
+                {
+                    Console.Write("{0}, ", arr[row, col]);
+                }
+                Console.WriteLine("");
+            }
         }
     }
 }

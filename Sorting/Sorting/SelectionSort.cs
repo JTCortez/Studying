@@ -27,4 +27,23 @@ namespace Sorting
             Console.WriteLine(swaps);
         }
     }
+
+    public void selectionSortAlgo(int[] arr)
+    {
+        for (int i = 0; i < arr.Length - 1; i++)
+        {
+            int small = i;
+            for (int j = i + 1; i < arr.Length; j++)
+            {
+                if (arr[small] > int[j])
+                {
+                    small = j;
+                }
+                int temp = arr[i];
+                arr[i] = arr[small];
+                arr[small] = temp;
+
+            }
+        }
+    }
 }
